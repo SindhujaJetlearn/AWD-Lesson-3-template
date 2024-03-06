@@ -9,24 +9,3 @@ body
     color: #f5f6f7;
 }
 
-div{
-height:300px;
-color:white;
- }
-
-.container-fluid {
-   background-color: pink;
-}
-
-.container{
-    background-color: grey;
-}
-
-p {
-    font-size: 16px;
-}
-
-#footer{
-    color:beige;
-}
-
